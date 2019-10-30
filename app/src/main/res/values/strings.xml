@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Contact Share</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <string name="send_string">Send</string>
+    <string name="received_string">Receive</string>
+    <string name="search_contact_string">Search Contact</string>
+    <string name="loading_title_string">Loading Contact</string>
+    <string name="loading_sub_title_string">Please Wait</string>
+    <string name="no_Number_string">No Number Found</string>
+
+    <string name="home_page_banner">1362812717220051_1362813473886642</string>
+    <string name="send_page_banner">1362812717220051_1362817333886256</string>
+
+    <!--<string name="send_page_banner">VID_HD_9_16_39S_LINK#1362812717220051_1362817333886256</string>-->
+    <!-- Strings related to MainActivity-->
+    <string name="no_barcode_captured">No barcode captured</string>
+    <string name="barcode_error_format">"Error reading barcode: %1$s"</string>
+
+    <!-- Strings related to barcode scanner -->
+    <string name="ok">OK</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+</resources>

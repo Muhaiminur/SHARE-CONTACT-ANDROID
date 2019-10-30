@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811616925334",
+    "firebase_url": "https://conactshare.firebaseio.com",
+    "project_id": "conactshare",
+    "storage_bucket": "conactshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811616925334:android:bbb30a2f0407ab37a4b4b7",
+        "android_client_info": {
+          "package_name": "com.sharecontact.conactshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811616925334-b7kgct1d8i17gl41keihoicaqkn8qf9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhV62o-S-qlB5mpkHVxuVu0JSMgQlSFAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811616925334-b7kgct1d8i17gl41keihoicaqkn8qf9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
